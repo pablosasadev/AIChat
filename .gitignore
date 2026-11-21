@@ -1,0 +1,27 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Node / React / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment / Secrets
+.env
+.env.local
+appsettings.Development.json
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# Build outputs
+*.dll
+*.pdb
