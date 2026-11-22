@@ -8,7 +8,9 @@ I wanted to understand how AI chat applications work under the hood, without rel
 
 ## 📺 Demo
 
-*Video demo coming soon.*
+[![AIChat Demo](https://img.youtube.com/vi/O1IiZ1ZFnVg/maxresdefault.jpg)](https://www.youtube.com/watch?v=O1IiZ1ZFnVg)
+
+*Click the image to watch a 2-minute demo of the application.*
 
 ## 🎯 Features
 
